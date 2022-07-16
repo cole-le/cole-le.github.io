@@ -3,15 +3,14 @@
 
 ### Website Preview
 #### Home Page
-<img src="website_images/HomePage.gif" width="900">
-
+{image}
 
 #### About Page
-<img src="website_images/AboutPage.png" width="900">
+{image}
 
 
 #### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
+{image}
 
 ## Sections 📚
 ✔️ About\
